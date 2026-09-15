@@ -149,6 +149,8 @@
 			Registro não concluído e foram exibidas apenas as seguintes mensagens de erro:
 			"- Email can't be blank.
 			 - Password can't be blank."
+
+		[Reportado]BUG - 001
 			 
 		- Fim -
 -\\-
@@ -297,6 +299,7 @@
 			 - Password can't be blank."
 			
 		Status: Failed 🟥
+		[Reeported] BUG - 001
 		
 		Actual Result -
 			Registration failed, and the error messages displayed was only:
