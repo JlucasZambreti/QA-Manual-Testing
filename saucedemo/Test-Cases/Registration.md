@@ -30,7 +30,7 @@
 		Resultado esperado - 
 			Usuário ser cadastrado com sucesso e redirecionado para a Home com sua conta Logada
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 		
 		
 	TC-002 - Registrar com Campo 'First Name' Vazio
@@ -49,7 +49,7 @@
 		Resultado esperado - 
 			Registro não concluído e exibição de mensagem de erro 'First name can't be blank.'
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 		
 	TC-003 - Registrar com Campo 'Last Name' Vazio
 	
@@ -67,7 +67,7 @@
 		Resultado esperado - 
 			Registro não concluído e exibição de mensagem de erro 'Last name can't be blank.'
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 		
 	TC-004 - Registrar com Campo 'Email Address' Vazio
 	
@@ -85,7 +85,7 @@
 		Resultado esperado - 
 			Registro não concluído e exibição de mensagem de erro 'Email can't be blank.'
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 		
 	TC-005 - Registrar com Campo 'Password' Vazio
 	
@@ -103,7 +103,7 @@
 		Resultado esperado - 
 			Registro não concluído e exibição de mensagem de erro 'Password can't be blank.'
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 		
 	TC-006 - Registrar com Campo 'Email Address' em Formato Inválido
 	
@@ -121,7 +121,7 @@
 		Resultado esperado - 
 			Registro não concluído e exibição de mensagem de erro informando que o endereço de Email está inválido
 			
-		Status: Aprovado
+		Status: Aprovado 🟩
 		
 	TC-007 - Registrar com Todos os Campos Vazios
 	
@@ -143,7 +143,7 @@
 			 - Email can't be blank.
 			 - Password can't be blank."
 			
-		Status: Falhou
+		Status: Falhou 🟥
 		
 		Resultado obtido -
 			Registro não concluído e foram exibidas apenas as seguintes mensagens de erro:
@@ -183,7 +183,7 @@
 		Expected Result - 
 			User is successfully registered and redirected to home page with their account logged in
 		
-		Status: Passed
+		Status: Passed 🟩
 		
 		
 	TC-002 - User Registers With The 'First Name' Field Empty
@@ -202,7 +202,7 @@
 		Expected Result - 
 			Registration should fail, and the error message 'First Name can't be blank.' should be displayed
 		
-		Status: Passed
+		Status: Passed 🟩
 		
 	TC-003 - User Registers With The 'Last Name' Field Empty
 	
@@ -220,7 +220,7 @@
 		Expected Result - 
 			Registration should fail, and the error message 'Last name can't be blank.' should be displayed
 		
-		Status: Passed
+		Status: Passed 🟩
 		
 	TC-004 - User Registers With The 'Email Address' Field Empty
 	
@@ -238,7 +238,7 @@
 		Expected Result - 
 			Registration should fail, and the error message 'Email can't be blank.' should be displayed
 		
-		Status: Passed
+		Status: Passed 🟩
 		
 	TC-005 - User Registers With The 'Password' Field Empty
 	
@@ -256,7 +256,7 @@
 		Expected Result - 
 			Registration should fail, and the error message 'Password can't be blank.' should be displayed
 		
-		Status: Passed
+		Status: Passed 🟩
 		
 	TC-006 - User Registers With The 'Email Address' Field in a Invalid Format
 	
@@ -274,7 +274,7 @@
 		Expected Result - 
 			Registration should fail, and an error messagem for invalid Email Address should be displayed
 			
-		Status: Passed
+		Status: Passed 🟩
 		
 	TC-007 - User Registers With All Fields Empty
 	
@@ -296,7 +296,7 @@
 			 - Email can't be blank.
 			 - Password can't be blank."
 			
-		Status: Failed
+		Status: Failed 🟥
 		
 		Actual Result -
 			Registration failed, and the error messages displayed was only:
