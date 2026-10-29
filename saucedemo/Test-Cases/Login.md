@@ -25,7 +25,7 @@
 		Resultado esperado - 
 			Usuário ser redirecionado para a página 'My Account' e Logar com sucesso
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 		
 	TC-002 - Logar com Email Inexistente
 	
@@ -40,7 +40,7 @@
 		Resultado esperado - 
 			Exibição de mensagem de erro informando que o Email e/ou Senha estão errados (Incorrect email or password.)
 			
-		Status: Aprovado
+		Status: Aprovado 🟩
 			 
 	TC-003 - Logar com Email Existente e Senha incorreta 
 	
@@ -55,7 +55,7 @@
 		Resultado esperado - 
 			Exibição de mensagem de erro informando que o Email e/ou Senha estão errados (Incorrect email or password.)
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 			
 	TC-004 - Logar com Campo 'Email Address' Vazio
 	
@@ -70,7 +70,7 @@
 		Resultado esperado - 
 			Exibição de mensagem de erro informando que o Email e/ou Senha estão errados (Incorrect email or password.)
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 			
 	TC-005 - Logar com Campo 'Password' Vazio
 	
@@ -85,7 +85,7 @@
 		Resultado esperado - 
 			Exibição de mensagem de erro informando que o Email e/ou Senha estão errados (Incorrect email or password.)
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 		
 	TC-006 - Logar com Campos 'Email Address' e 'Password' Vazios
 	
@@ -100,7 +100,7 @@
 		Resultado esperado - 
 			Exibição de mensagem de erro informando que o Email e/ou Senha estão errados (Incorrect email or password.)
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 
 	TC-007 - Logar com campo 'Email Address' em Formato Inválido
 	
@@ -115,7 +115,7 @@
 		Resultado esperado - 
 			Exibição de mensagem de erro informando que o Email deve incluir um "@"
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 
 		- Fim -
 -\\-
