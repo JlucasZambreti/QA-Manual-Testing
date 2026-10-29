@@ -1,5 +1,5 @@
 -\\-
-	Test Cases referente à função de Listagem de Produtos - PT-BR
+	Test Cases Referente à Função de Listagem de Produtos - PT-BR
 -\\-
 	
 	Critérios 		- Todos os produtos devem ser listados corretamente
@@ -25,7 +25,7 @@
 		Resultado esperado -
 			Todos os produtos sejam carregados corretamente, contendo Imagem, Nome e Preço
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 			
 	TC-002 - Listagem de Produtos com Falta de Estoque
 	
@@ -37,7 +37,7 @@
 		
 		Resultado esperado -
 			Todos os produtos sejam carregados corretamente, contendo Imagem, Nome, Preço E exibir faixa informando a falta de estoque do produto
-		Status: Aprovado
+		Status: Aprovado 🟩
 			
 	TC-003 - Acessar Um Produto Listado Com Estoque
 	
@@ -51,7 +51,7 @@
 		Resultado esperado -
 			Ser redirecionado para página de detalhes do produto "Black heels" Com sucesso
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 			
 	TC-004 - Acessar Um Produto Listado Sem Estoque
 	
@@ -65,7 +65,7 @@
 		Resultado esperado - 
 			Ser redirecionado para página de detalhes do produto "Brown Shades" Com sucesso
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 			
 
 		- Fim -
