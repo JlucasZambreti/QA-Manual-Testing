@@ -25,7 +25,7 @@
 			Usuário ser redirecionado para a página de Check Out com sucesso, produtos, valores e quantias exibidas serem identicas aos dados do carrinho de compras
 			
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 		
 	TC-002 - Iniciar Processo de Check Out sem produtos no carrinho
 	
@@ -39,7 +39,7 @@
 		Resultado esperado - 
 			Mensagem "Your cart is empty." ser exibida e botão de "Check Out" estar indisponível
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 			
 	TC-003 - Remover Produto do Carrinho
 	
@@ -53,7 +53,7 @@
 		Resultado esperado - 
 			Produto ser removido do carrinho com sucesso, mensagem de "Your cart is Empty." ser exibida e botão de "Chek Out" estar indisponível
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 				
 	TC-004 - Remover Produto do Carrinho com 2 Itens Diferentes Adicionados
 	
@@ -70,7 +70,7 @@
 		Resultado esperado - 
 			Carrinho atualizar e remover com sucesso o produto "Noir Jacket", Botão de "Check Out" ainda estar ativo e produto adicionado previamente ainda estar visivel
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 
 	TC-005 - Alterar Quantia do Produto
 	
@@ -85,7 +85,7 @@
 		Resultado esperado - 
 			Produto ser alterado para 10 unidades e valor total ser alterado para a nova quantia
 			
-		Status: Aprovado
+		Status: Aprovado 🟩
 		
 	TC-006 - Alterar Quantia do Produto Para "0"
 	
@@ -100,7 +100,7 @@
 		Resultado esperado - 
 			Produto ser removido do carrinho, mensagem de "Your cart is Empty." ser exibida e botão de "Chek Out" estar indisponível
 			
-		Status: Aprovado
+		Status: Aprovado 🟩
 
 		- Fim -
 -\\-
