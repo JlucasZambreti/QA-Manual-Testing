@@ -22,7 +22,7 @@
 		Resultado esperado - 
 			Usuário ser Redirecionado para a página "Home" e conta ser deslogada com sucesso
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 				
 		- Fim -
 -\\-
