@@ -11,7 +11,6 @@
   - Listagem de produtos
   - Detalhes dos produtos
   - Carrinho de compras
-  - Processo de Checkout
   - Logout
 
 ### Out of Scope
