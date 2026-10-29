@@ -27,7 +27,7 @@
 		
 		Status: Falhou
 		
-		Resultado obtido - 
+		Resultado obtido - 🟥
 			URL do Produto clicado "Black heels" é referente ao "flower print jeans" Porém nome, preço e imagem estão exibidas corretamente
 		
 	TC-002 - Detalhes do Produto Sem Estoque é Exibido Corretamente
@@ -42,7 +42,7 @@
 		Resultado esperado - 
 			Ser redirecionado para a página de detalhes do produto sem estoque clicado, exibindo nome, preço e imagem identos à página de listagem
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 		
 	TC-003 - Adicionar Produto Com Estoque Ao Carrinho com Sucesso
 	
@@ -57,7 +57,7 @@
 		Resultado esperado - 
 			Produto ser Adicionado ao carrinho e atualizar a quatia de produtos ao carrinho no menu superior da página
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 			
 	TC-004 - Adicionar Produto Sem Estoque Ao Carrinho
 	
@@ -72,7 +72,7 @@
 		Resultado esperado - 
 			Botão "ADD TO CART" estar com o texto trocado para "SOLD OUT" e estar inclicável
 		
-		Status: Aprovado
+		Status: Aprovado 🟩
 			
 
 		- Fim -
