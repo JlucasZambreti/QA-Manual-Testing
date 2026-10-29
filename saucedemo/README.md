@@ -15,7 +15,6 @@ Validar as principais funcionalidades da aplicação, verificando seu comportame
 - Listagem de produtos
 - Detalhes dos produtos
 - Carrinho de compras
-- Processo de Checkout
 - Logout
 
 ## 🧪 Tipos de teste
