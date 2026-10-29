@@ -1,5 +1,5 @@
 -\\-
-	Test cases referente à função de registro - PT-BR
+	Test Cases Referente à Função de Registro - PT-BR
 -\\-
 	
 	Critérios 		- Usuário deve conseguir criar uma conta utilizando dados válidos.
